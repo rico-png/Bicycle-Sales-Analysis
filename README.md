@@ -13,19 +13,32 @@ perform analysis and visualizations to better understand our dataset, create ins
 
 The Bicycle sales dataset contains 113,036 rows and 18 columns. The content of the dataset includes parts by parts of of bicycle sold across all the 6 countries.
 The columns include
+    
     Date – The date format on our date column is DD-MM-YYYY, represents the day,month and year.
     Customer_Age – Represents the customers age.
+    
     Age_Group – Represents a number of people of similar age classed together
+    
     Customer_Gender –  customer’s Gender  was segmented into Male or Female
+    
     State – Represents territory where the products where traded
+    
     Product_Category – is a group of similar products that share similar characteristics.
+    
     Sub_Category – A reduced or subdivision of the Product Category
+    
     Product – it is the item for sale.
+   
     Ordered_Quantity – Quantity Of products a buyer is willing to pay for
+    
     Unit_Cost – Represents the total expenditure incurred to produce,store, and sell one unit of a product.
+    
     Unit_Price – Is the price for one item or product
+    
     Profit – financial Gain on product sales received when revenue surpasses cost and expenses  
+    
     Cost – amount spent in the production of the products
+    
     Revenue – amount generated from the sales of products
 
 I added the Sales column  to assist us examine the sales of different products and how successful the product were.
