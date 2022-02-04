@@ -57,7 +57,11 @@ Also used .info(), .dtypes and .describe to know the details, the data type and 
 I added SALES column  by multiplying the Order_Quantity column by the Unit price.
 
 
-Please look up my 'EXECUTIVE SUMMARY' FOR A DETAILED ANAYSIS.
+
+
+
+
+# Please look up my 'EXECUTIVE SUMMARY' FOR A DETAILED ANAYSIS.
 
 
 
